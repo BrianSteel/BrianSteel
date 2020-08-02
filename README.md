@@ -39,14 +39,15 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - SaaS
    - Node
 
-### I'm learning these and will be making projects on each on them🌱
+### I'm learning these and will be making projects on each one them🌱
    
    Stay Tuned for:
 
    - Angular
    - Typescript
    - SaaS
-   - Node
+   - Node Js
+   - And more. (As I said, stay tuned)
     
  
 ### 📫 How to reach me: 
