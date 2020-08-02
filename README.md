@@ -2,7 +2,7 @@
 
 I'm Brian.
 
-I'm a curious person. So, you would see me experimented here all the time. Stay tuned!!!
+I'm a curious person. So, you would see me experimenting here all the time. Stay tuned!!!
 
 ### Want a quick overview of my github account? 😀
 
