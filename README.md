@@ -57,7 +57,7 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
     
 ### 💬 Ask me about:
 
-       See my Portfolio. My resume is attached within. Its where it should be. Read the README.md for more info.
+    See my Portfolio. My resume is attached within. Its where it should be. Read the README.md for more info.
 
 ### 🤔 Fun fact: What is the color of the universe? 
     
