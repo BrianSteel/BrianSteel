@@ -53,6 +53,11 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
 ### 📫 How to reach me: 
 
     Email me. I read my emails almost everyday. Email me at sthitpanth01@gmail.com
+    
+    
+### 💬 Ask me about:
+
+       See my Portfolio. My resume is attached within. Its where it should be. Read the README.md for more info.
 
 ### 🤔 Fun fact: What is the color of the universe? 
     
