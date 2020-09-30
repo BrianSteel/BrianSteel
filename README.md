@@ -19,6 +19,7 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    
    - Javascript-Projects
    - 10-HTML-Projects
+   - Real-Time-Chat-Room
    
    These are some of my work that will take me some time to fix (don't go near them, it'll explode):
    
@@ -45,8 +46,6 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
 
    - Angular
    - Typescript
-   - SaaS
-   - Node Js
    - And more. (As I said, stay tuned)
     
  
