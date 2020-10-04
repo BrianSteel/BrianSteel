@@ -37,7 +37,7 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - javascript
    - Angular
    - Typescript
-   - SaaS
+   - Sass/Scss
    - Node
 
 ### I'm learning these and will be making projects on each one them🌱
