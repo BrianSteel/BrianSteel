@@ -9,6 +9,8 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    These are some of my notable work:
    
    - Vue-Chat-Box
+   - Todo app (vanilla JS and Vue)
+   - Crude CRUD App 
    - Quiz-App
    - ISS-Geolocation
    - Punching-Joker-Game-Vue-JS-
