@@ -8,14 +8,14 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
 
    These are some of my notable work:
    
-   - Vue-Chat-Box
+   - Vue-Chat-Box 
    - Todo app (vanilla JS and Vue)
-   - Crude CRUD App 
-   - Quiz-App
+   - Crude CRUD App (Vue)
+   - Quiz-App (Vue)
    - ISS-Geolocation
-   - Punching-Joker-Game-Vue-JS-
-   - Javascript-Projects
-   - 10-HTML-Projects
+   - Punching-Joker-Game-Vue-JS
+   - Real time chat application (vanilla Js)
+   - Elon Mask Tribute (HTML/CSS)
    
    These are some of my work that I will add upon for sure:
    
