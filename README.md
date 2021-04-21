@@ -16,22 +16,6 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - Punching-Joker-Game-Vue-JS
    - Real time chat application (vanilla Js)
    - Elon Mask Tribute (HTML/CSS)
-   
-   These are some of my work that I will add upon for sure:
-   
-   - Javascript-Projects
-   - 10-HTML-Projects
-   - Real-Time-Chat-Room
-   
-   These are some of my work that will take me some time to fix (don't go near them, it'll explode):
-   
-   - uniProjectRedo
-   
-   These are some projects that will go to the delete bin
-   
-   - UniProjectWork
-   - portfolio-Brian-Sachin
-   - Code-me-github
 
 ### I’m currently working on the following 🔭
 
@@ -39,14 +23,6 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - javascript
    - Angular
    - Typescript
-
-### I'm learning these and will be making projects on each one them🌱
-   
-   Stay Tuned for:
-
-   - Angular
-   - Typescript
-   - And more. (As I said, stay tuned)
     
  
 ### 📫 How to reach me: 
