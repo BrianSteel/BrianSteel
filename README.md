@@ -6,7 +6,7 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
 
 ### Want a quick overview of my github account? 😀
 
-   These are some of my notable work:
+<!--    These are some of my notable work:
    
    - Vue-Chat-Box 
    - Todo app (vanilla JS and Vue)
@@ -15,12 +15,13 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - ISS-Geolocation
    - Punching-Joker-Game-Vue-JS
    - Real time chat application (vanilla Js)
-   - Elon Mask Tribute (HTML/CSS)
+   - Elon Mask Tribute (HTML/CSS) -->
 
 ### I’m currently working on the following 🔭
 
    - Vue
    - javascript
+   - Python
    - Angular
    - Typescript
     
