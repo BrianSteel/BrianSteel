@@ -4,7 +4,7 @@ I'm Brian.
 
 I'm a curious person. So, you would see me experimenting here all the time. Stay tuned!!!
 
-### Want a quick overview of my github account? 😀
+<!-- ### Want a quick overview of my github account? 😀 -->
 
 <!--    These are some of my notable work:
    
