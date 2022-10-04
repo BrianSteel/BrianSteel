@@ -17,13 +17,13 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - Real time chat application (vanilla Js)
    - Elon Mask Tribute (HTML/CSS) -->
 
-### I’m currently working on the following 🔭
+<-- ### I’m currently working on the following 🔭
 
    - Vue
    - javascript
    - Python
    - Angular
-   - Typescript
+   - Typescript -->
     
  
 ### 📫 How to reach me: 
