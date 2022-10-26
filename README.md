@@ -29,17 +29,18 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
 ### 📫 How to reach me: 
 
     Email me. I read my emails almost everyday. Email me at sthitpanth01@gmail.com
-    
-  <!--  
-### 💬 Ask me about:
+ 
+ <!--  ### 💬 Ask me about:
 
     See my Portfolio. My resume is attached within. Its where it should be. Read the Portfolio's README.md for more info. -->
+    
+### Top languages used 
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSteel)](https://github.com/BrianSteel/github-readme-stats)
 
 ### 🤔 Fun fact: What is the color of the universe? 
     
    ⚡ The average colour of the Universe is Beige. 
-   
-    
     
     
 <!--
