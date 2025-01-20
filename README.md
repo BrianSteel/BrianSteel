@@ -23,12 +23,12 @@ I'm a curious person. So, you would see me experimenting here all the time. Stay
    - javascript
    - Python
    - Angular
-   - Typescript -->
+   - Typescript 
     
  
 ### 📫 How to reach me: 
 
-    Email me. I read my emails almost everyday. Email me at sthitpanth01@gmail.com
+    Email me. I read my emails almost everyday. Email me at sthitpanth01@gmail.com -->   
  
  <!--  ### 💬 Ask me about:
 
